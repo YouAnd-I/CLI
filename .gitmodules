@@ -1,0 +1,3 @@
+[submodule "discordeno-it"]
+	path = discordeno-it
+	url = https://github.com/YouAnd-I/deno-it-bot.git
